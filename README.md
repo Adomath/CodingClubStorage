@@ -1,0 +1,1 @@
+This GitHub Repository will contain all coding club information from the meetings. You will be able to access resources to learn and practice your code as well as coding projects that we do in meetings. Go to  http://ahscodingclub.com/ for more information or contact us at artala@students.wcpss.net.
